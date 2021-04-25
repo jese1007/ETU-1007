@@ -7,4 +7,4 @@ tuto dossier adressage:
     2-entrer l'ipv4 ou ipv6 et valider
 
 tuto dossier switch:
-    1-lancer le main.py dans dossier switch
+    1-lancer le main.py dans dossier switch01
